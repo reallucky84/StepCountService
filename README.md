@@ -59,3 +59,4 @@
 
 - Need to optimize databse insert and step count calculate logic. Add logic gathering and organizing step data per day.
 - Improve Android Service lifecycle handling strategy.
+- Improve architecture of using states of components and usecases.
