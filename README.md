@@ -20,7 +20,7 @@
 ## Installing
 1. Clone the repository:
     ```sh
-    git clone https://github.com/reallucky84/step-counter-app.git
+    git clone https://github.com/reallucky84/StepCountService.git
     ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
